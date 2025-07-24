@@ -1,0 +1,46 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.8",
+    "heartbeatAt": "2024-03-27T10:58:36.672779",
+    "startedAt": "2024-03-27T10:58:35.492379",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "Shubham_Kumar",
+    "username": "shubh",
+    "executable": "C:\\Users\\shubh\\anaconda3\\envs\\ns\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3100.0,
+        "min": 0.0,
+        "max": 3100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3100.0,
+            "min": 0.0,
+            "max": 3100.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 49.999996185302734,
+            "used": 38.87254333496094
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.710990905761719
+    }
+}
